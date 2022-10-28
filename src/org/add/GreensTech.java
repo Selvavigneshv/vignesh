@@ -16,6 +16,9 @@ System.out.println("Greens tech Velacherry Address: wwww");
 public void greensAnnaNagar() {
 System.out.println("Greens tech AnnaNagar Address:aaaa");
 }
+public void greensTvl() {
+System.out.println("palaiyamkottai");
+}
 public static void main(String[] args) {
 	GreensTech a = new GreensTech();
 	a.greensOmr();
